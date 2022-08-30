@@ -3,6 +3,7 @@ package org.example;
 /**
  * @author Titus Murithi Bundi
  */
+// Iterative binary search.
 public class BinarySearch {
     public static void main(String[] args) {
         BinarySearch ox = new BinarySearch();

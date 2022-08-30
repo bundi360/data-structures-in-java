@@ -3,6 +3,7 @@ package org.example;
 /**
  * @author Titus Murithi Bundi
  */
+
 //Binary search in recursive method.
 public class BinarySearch2 {
     public static void main(String[] args) {
